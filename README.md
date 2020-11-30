@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SenoSpammerV1" src="https://cdn.discordapp.com/attachments/725547749591875604/782759390670225438/IMG_20201130_010221-removebg-preview.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SenoSpammerV1">  
 
 # SenoSpammerV1
 
