@@ -1,5 +1,3 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SenoSpammerV1">  
-
 # SenoSpammerV1
 
 [![](https://img.shields.io/discord/761541041152983050.svg?logo=discord&colorB=7289DA)](https://discord.gg/Eiro)
