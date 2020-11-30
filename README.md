@@ -17,6 +17,9 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 
 * 🛠️ Simple à lancer
 
+<img src="https://cdn.discordapp.com/attachments/769272569034833920/782755294224449546/Screenshot_20201130_004957.jpg"/>
+
+
 ### Crédits
 
 * 🎩 Ce WebhookSpammer nommé SenoSpammerV1 a été développé par Eiro de la Seno !
