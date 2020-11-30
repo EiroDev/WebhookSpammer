@@ -5,7 +5,7 @@
 
 > Un Webhook Spammer efficace et modifiable !
 
-SenoSpammerV1 a été codé en Python avec [Discord.js](https://python.js.org)  par [Eiro](https://github.com/EiroWeb).  
+SenoSpammerV1 a été codé avec [Python](https://python.org)  par [Eiro](https://github.com/EiroWeb).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 ## Informations
 
